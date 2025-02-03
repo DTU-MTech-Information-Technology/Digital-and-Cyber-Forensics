@@ -1,0 +1,1 @@
+find /home/kali -type f -atime -7
